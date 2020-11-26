@@ -13,7 +13,6 @@ const initialState: IRepos = {
 } 
 
 const reposReducer = (state: IRepos = initialState, action: Actions) => {
-    console.log('New Action')
     switch (action.type) {
         case ActionTypes.fetchRepos:
             return {
