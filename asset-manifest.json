@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Hermes-Bird/test-task/static/css/main.d2ff3f9b.chunk.css",
+    "main.js": "/Hermes-Bird/test-task/static/js/main.09a873ec.chunk.js",
+    "main.js.map": "/Hermes-Bird/test-task/static/js/main.09a873ec.chunk.js.map",
+    "runtime-main.js": "/Hermes-Bird/test-task/static/js/runtime-main.e61d7e31.js",
+    "runtime-main.js.map": "/Hermes-Bird/test-task/static/js/runtime-main.e61d7e31.js.map",
+    "static/css/2.02b7f59e.chunk.css": "/Hermes-Bird/test-task/static/css/2.02b7f59e.chunk.css",
+    "static/js/2.c8f3770e.chunk.js": "/Hermes-Bird/test-task/static/js/2.c8f3770e.chunk.js",
+    "static/js/2.c8f3770e.chunk.js.map": "/Hermes-Bird/test-task/static/js/2.c8f3770e.chunk.js.map",
+    "index.html": "/Hermes-Bird/test-task/index.html",
+    "static/css/2.02b7f59e.chunk.css.map": "/Hermes-Bird/test-task/static/css/2.02b7f59e.chunk.css.map",
+    "static/css/main.d2ff3f9b.chunk.css.map": "/Hermes-Bird/test-task/static/css/main.d2ff3f9b.chunk.css.map",
+    "static/js/2.c8f3770e.chunk.js.LICENSE.txt": "/Hermes-Bird/test-task/static/js/2.c8f3770e.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Hermes-Bird/test-task/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e61d7e31.js",
+    "static/css/2.02b7f59e.chunk.css",
+    "static/js/2.c8f3770e.chunk.js",
+    "static/css/main.d2ff3f9b.chunk.css",
+    "static/js/main.09a873ec.chunk.js"
+  ]
+}
