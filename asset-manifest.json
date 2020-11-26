@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Hermes-Bird/test-task/static/css/main.d2ff3f9b.chunk.css",
-    "main.js": "/Hermes-Bird/test-task/static/js/main.09a873ec.chunk.js",
-    "main.js.map": "/Hermes-Bird/test-task/static/js/main.09a873ec.chunk.js.map",
-    "runtime-main.js": "/Hermes-Bird/test-task/static/js/runtime-main.e61d7e31.js",
-    "runtime-main.js.map": "/Hermes-Bird/test-task/static/js/runtime-main.e61d7e31.js.map",
-    "static/css/2.02b7f59e.chunk.css": "/Hermes-Bird/test-task/static/css/2.02b7f59e.chunk.css",
-    "static/js/2.c8f3770e.chunk.js": "/Hermes-Bird/test-task/static/js/2.c8f3770e.chunk.js",
-    "static/js/2.c8f3770e.chunk.js.map": "/Hermes-Bird/test-task/static/js/2.c8f3770e.chunk.js.map",
-    "index.html": "/Hermes-Bird/test-task/index.html",
-    "static/css/2.02b7f59e.chunk.css.map": "/Hermes-Bird/test-task/static/css/2.02b7f59e.chunk.css.map",
-    "static/css/main.d2ff3f9b.chunk.css.map": "/Hermes-Bird/test-task/static/css/main.d2ff3f9b.chunk.css.map",
-    "static/js/2.c8f3770e.chunk.js.LICENSE.txt": "/Hermes-Bird/test-task/static/js/2.c8f3770e.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/Hermes-Bird/test-task/static/media/outline-icons.ddae9b1b.woff"
+    "main.css": "/test-task/static/css/main.d2ff3f9b.chunk.css",
+    "main.js": "/test-task/static/js/main.09a873ec.chunk.js",
+    "main.js.map": "/test-task/static/js/main.09a873ec.chunk.js.map",
+    "runtime-main.js": "/test-task/static/js/runtime-main.56587483.js",
+    "runtime-main.js.map": "/test-task/static/js/runtime-main.56587483.js.map",
+    "static/css/2.7606a803.chunk.css": "/test-task/static/css/2.7606a803.chunk.css",
+    "static/js/2.c8f3770e.chunk.js": "/test-task/static/js/2.c8f3770e.chunk.js",
+    "static/js/2.c8f3770e.chunk.js.map": "/test-task/static/js/2.c8f3770e.chunk.js.map",
+    "index.html": "/test-task/index.html",
+    "static/css/2.7606a803.chunk.css.map": "/test-task/static/css/2.7606a803.chunk.css.map",
+    "static/css/main.d2ff3f9b.chunk.css.map": "/test-task/static/css/main.d2ff3f9b.chunk.css.map",
+    "static/js/2.c8f3770e.chunk.js.LICENSE.txt": "/test-task/static/js/2.c8f3770e.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/test-task/static/media/outline-icons.ddae9b1b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.e61d7e31.js",
-    "static/css/2.02b7f59e.chunk.css",
+    "static/js/runtime-main.56587483.js",
+    "static/css/2.7606a803.chunk.css",
     "static/js/2.c8f3770e.chunk.js",
     "static/css/main.d2ff3f9b.chunk.css",
     "static/js/main.09a873ec.chunk.js"
