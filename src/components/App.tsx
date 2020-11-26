@@ -1,11 +1,15 @@
 import React from 'react'
-import './App.css'
+import { Container } from 'semantic-ui-react'
+import ReposList from './ReposList'
+import SearchBar from './SearchBar'
+
 
 function App() {
     return (
-		<div className="App">
-			
-		</div>
+		<Container className="app-container">
+			<SearchBar />
+			<ReposList />
+		</Container>
 	)
 }
 
